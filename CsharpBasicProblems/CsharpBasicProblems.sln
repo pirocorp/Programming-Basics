@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterStats", "Character
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back30Minutes", "Back30Minutes\Back30Minutes.csproj", "{5E4263D9-0ABE-4AC7-833D-818677F789BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthPrinter", "MonthPrinter\MonthPrinter.csproj", "{E248B33E-6DC9-4DB4-8C2C-299E1A059F2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5E4263D9-0ABE-4AC7-833D-818677F789BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E4263D9-0ABE-4AC7-833D-818677F789BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E4263D9-0ABE-4AC7-833D-818677F789BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E248B33E-6DC9-4DB4-8C2C-299E1A059F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E248B33E-6DC9-4DB4-8C2C-299E1A059F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E248B33E-6DC9-4DB4-8C2C-299E1A059F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E248B33E-6DC9-4DB4-8C2C-299E1A059F2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
