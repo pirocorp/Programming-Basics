@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back30Minutes", "Back30Minu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthPrinter", "MonthPrinter\MonthPrinter.csproj", "{E248B33E-6DC9-4DB4-8C2C-299E1A059F2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheatrePromotions", "TheatrePromotions\TheatrePromotions.csproj", "{099F5F33-7C09-4E9C-B03F-B15A08D00FE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{E248B33E-6DC9-4DB4-8C2C-299E1A059F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E248B33E-6DC9-4DB4-8C2C-299E1A059F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E248B33E-6DC9-4DB4-8C2C-299E1A059F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{099F5F33-7C09-4E9C-B03F-B15A08D00FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099F5F33-7C09-4E9C-B03F-B15A08D00FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099F5F33-7C09-4E9C-B03F-B15A08D00FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099F5F33-7C09-4E9C-B03F-B15A08D00FE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
