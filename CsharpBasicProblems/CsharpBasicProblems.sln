@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheatrePromotions", "Theatr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOddNumbers", "SumOddNumbers\SumOddNumbers.csproj", "{63F1C559-5726-4D60-AF16-8D0437BC021D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddNumber", "OddNumber\OddNumber.csproj", "{E96CCE97-E5FD-44C6-8207-4B1F84D0CA4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{63F1C559-5726-4D60-AF16-8D0437BC021D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63F1C559-5726-4D60-AF16-8D0437BC021D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63F1C559-5726-4D60-AF16-8D0437BC021D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96CCE97-E5FD-44C6-8207-4B1F84D0CA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96CCE97-E5FD-44C6-8207-4B1F84D0CA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96CCE97-E5FD-44C6-8207-4B1F84D0CA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96CCE97-E5FD-44C6-8207-4B1F84D0CA4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
