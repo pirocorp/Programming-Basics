@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeverageLabels", "BeverageL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterStats", "CharacterStats\CharacterStats.csproj", "{8B3FDC8F-8C0C-461B-9AAF-C7B8B8E5ABE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back30Minutes", "Back30Minutes\Back30Minutes.csproj", "{5E4263D9-0ABE-4AC7-833D-818677F789BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8B3FDC8F-8C0C-461B-9AAF-C7B8B8E5ABE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B3FDC8F-8C0C-461B-9AAF-C7B8B8E5ABE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B3FDC8F-8C0C-461B-9AAF-C7B8B8E5ABE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E4263D9-0ABE-4AC7-833D-818677F789BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4263D9-0ABE-4AC7-833D-818677F789BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4263D9-0ABE-4AC7-833D-818677F789BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4263D9-0ABE-4AC7-833D-818677F789BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
