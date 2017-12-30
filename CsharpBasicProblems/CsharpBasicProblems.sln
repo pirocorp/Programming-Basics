@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilesKilometers", "MilesKilometers\MilesKilometers.csproj", "{E6654EFA-ED1F-49F0-B854-47001AAA0446}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeverageLabels", "BeverageLabels\BeverageLabels.csproj", "{88E716EF-7B8A-473D-B918-0FDE195CDF8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E6654EFA-ED1F-49F0-B854-47001AAA0446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6654EFA-ED1F-49F0-B854-47001AAA0446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6654EFA-ED1F-49F0-B854-47001AAA0446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E716EF-7B8A-473D-B918-0FDE195CDF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E716EF-7B8A-473D-B918-0FDE195CDF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E716EF-7B8A-473D-B918-0FDE195CDF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E716EF-7B8A-473D-B918-0FDE195CDF8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
